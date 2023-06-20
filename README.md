@@ -1,1 +1,1 @@
-# Demo Repo for Software techologies course @ SoftUni / May 23'
+# Demo Repo for Software technologies course @ SoftUni / May 23'
